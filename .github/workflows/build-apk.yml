@@ -1,5 +1,4 @@
 
-name: Build Demo Buddy APK
 
 on:
   workflow_dispatch:
